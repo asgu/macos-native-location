@@ -1,5 +1,5 @@
 {
-  "name": "macos-location2",
+  "name": "macos-native-location",
   "version": "1.0.0",
   "description": "Wrapper around macOS CoreLocation services.",
   "keywords": [
@@ -15,7 +15,7 @@
     "longitude"
   ],
   "license": "MIT",
-  "author": "Jakub Synowiec <github@jakubsynowiec.info>",
+  "author": "Philip Asgu <github@asgudev>",
   "main": "src/index.js",
   "types": "src/index.d.ts",
   "engines": {
@@ -26,12 +26,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jsynowiec/macos-location"
+    "url": "https://github.com/asgu/macos-native-location"
   },
   "bugs": {
-    "url": "https://github.com/jsynowiec/macos-location/issues"
+    "url": "https://github.com/asgu/macos-native-location/issues"
   },
-  "homepage": "https://github.com/jsynowiec/macos-location",
+  "homepage": "https://github.com/asgu/macos-native-location",
   "dependencies": {
     "node-gyp": "^3.6.2"
   }
